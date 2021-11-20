@@ -9,6 +9,7 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godisbilly&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godisbilly)](https://github.com/anuraghazra/github-readme-stats)
 ### 已读书单:books:
 **2021年**
 1. 《百年孤独》
