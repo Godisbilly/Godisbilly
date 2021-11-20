@@ -1,1 +1,1 @@
-<p color="blue">Across the Great Wall we can reach every corner in the world</p>
+<font color=DarkOrange>Across the Great Wall we can reach every corner in the world</font>
