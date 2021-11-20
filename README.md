@@ -5,4 +5,4 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
-+ GodisBilly的个人工作学习仓库
++ I am a Web Software Developer.JavaScript is my favorite language,and JavaScript is the best language in the world.
