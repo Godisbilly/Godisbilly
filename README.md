@@ -1,3 +1,5 @@
-<h1 >
-Across the Great Wall we can reach every corner in the world.
-</h1>
+# Welcome
+![](https://visitor-badge.glitch.me/badge?page_id=Godisbilly.readme)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Godisbilly&theme=xcode" />
+</div>
