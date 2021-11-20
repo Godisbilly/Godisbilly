@@ -6,8 +6,8 @@
   <p>CodingTime from WakaTime Weekly</p>
 <!--START_SECTION:waka-->
   ```  
-  JavaScript   23 hrs 17 mins  █████████████████████████   99.69 % 
-  HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+  JavaScript   23 hrs 17 mins  █████████████████████████   99.69 %   
+  HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %   
   JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
   ```
 <!--END_SECTION:waka-->
