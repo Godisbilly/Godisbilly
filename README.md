@@ -1,5 +1,5 @@
 + Self-introduction  
-<div align="center">
+<div align="left">
 <img src="https://metrics.lecoq.io/Godisbilly?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 + CodingTime from WakaTime Weekly
