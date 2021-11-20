@@ -1,5 +1,7 @@
 + Self-introduction  
-  ![Metrics](https://metrics.lecoq.io/Godisbilly?template=classic&config.timezone=Asia%2FShanghai)
+<div align="center">
+<img src="https://metrics.lecoq.io/Godisbilly?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 + CodingTime from WakaTime Weekly
   <!--START_SECTION:waka-->
 ```text
