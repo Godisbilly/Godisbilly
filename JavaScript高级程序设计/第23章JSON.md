@@ -84,4 +84,46 @@ console.log(jsonText3);
 }
 */
 ```
-注意，除了缩进，JSON.stringify()方法还为方便阅读
+注意，除了缩进，JSON.stringify()方法还为方便阅读插入了换行符。这个行为对于所有有效的缩进参数都会发生。（只缩进不换行也没什么用。）最大缩进值为10，大于10的值会自动设置为10。  
+如果缩进参数是一个字符串而非数值，那么JSON字符串中就会使用这个字符串而不是空格来缩进。使用字符串，也可以将缩进字符设置为tab或任意字符。使用字符串时同样有10个字符的长度限制。如果字符串长度超过10个字符，则会在第10个字符处截断。  
+#### toJSON方法
+有时候，对象需要在JSON.stringify()之上自定义JSON序列化。此时，可以在要序列化的对象中添加toJSON()方法，序列化时会基于这个方法返回适当的JSON表示。  
+如果缩进参数是一个字符串而非数值，那么JSON字符串中就会使用这个字符串而不是空格来缩进。使用字符串，也可以将缩进字符设置为tab或任意字符。使用字符串时同样有10个字符的长度限制。如果字符串长度超过10个字符，则会在第10个字符处截断。 
+```
+let book = {
+    title: "Professional JavaScript",
+    authors: [
+        'Nicholas C. Zakas',
+        "Matt Frisbie"
+    ],
+    edition: 4,
+    year: 2017,
+    toJSON() {
+        return this.title;
+    }
+};
+
+let jsonText4 = JSON.stringify(book);
+console.log(jsonText4);
+//"Professional JavaScript"
+```
+### 解析选项
+JSON.parse()方法也可以接收一个额外参数，这个函数会针对每个键值对都调用一次。为区别传给JSON.stringify()的起过滤作用的替代函数，这个函数被称为还原函数。实际上它们的格式完全一样，即还原函数也接收两个参数，属性名key和属性值value，另外，也需要返回值。  
+如果还原函数返回undefined，则结果中就会删除相应的键。如果返回了其他任何值，则该值就会成为相应键的值插入结果中。  
+```
+let book = {
+    title: "Professional JavaScript",
+    authors: [
+        'Nicholas C. Zakas',
+        "Matt Frisbie"
+    ],
+    edition: 4,
+    year: 2017,
+    releaseDate: new Date(2021, 11, 21)
+};
+
+let jsonText5 = JSON.stringify(book, null, 4);
+let bookCopy = JSON.parse(jsonText5, (key, value) => {
+    return key === "releaseDate" ? new Date(value) : value;
+});
+```
