@@ -4,8 +4,8 @@ I am a Web Software Developer.JavaScript is my best language,and JavaScript is t
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-HTML         8 hrs 40 mins   ████████████░░░░░░░░░░░░░   47.68 % 
-JavaScript   8 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.33 % 
+HTML         13 hrs 27 mins  ██████████████████▒░░░░░░   73.95 % 
+JavaScript   3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 % 
 Other        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 CSS          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 PHP          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
