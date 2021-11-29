@@ -4,11 +4,11 @@ I am a Web Software Developer.JavaScript is my best language,and JavaScript is t
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-HTML         15 hrs 18 mins  ████████████████░░░░░░░░░   63.64 % 
-JavaScript   3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Vue.js       2 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Other        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+HTML         14 hrs 47 mins  ███████████████▓░░░░░░░░░   62.01 % 
+Vue.js       5 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+JavaScript   2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godisbilly&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godisbilly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
