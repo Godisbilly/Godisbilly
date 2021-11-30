@@ -23,3 +23,4 @@ Markdown     15 mins         ▒░░░░░░░░░░░░░░░░
 7. 《JavaScript DOM编程艺术》
 8. 《深入理解ES6》
 9. 《JavaScript忍者秘籍》
+10.《JavaScript高级程序设计》
