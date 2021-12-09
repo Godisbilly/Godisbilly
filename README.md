@@ -11,16 +11,4 @@ JSON         23 mins         ▓░░░░░░░░░░░░░░░░
 Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 <!--END_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godisbilly&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godisbilly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### 已读书单:books:
-**2021年**
-1. 《百年孤独》
-2. 《一句顶一万句》
-3. 《中国近代史》
-4. 《小公务员之死》
-5. 《置身事内：中国政府与经济发展》
-6. 《你不知道的JavaScript（上册）》
-7. 《JavaScript DOM编程艺术》
-8. 《深入理解ES6》
-9. 《JavaScript忍者秘籍》
-10.《JavaScript高级程序设计》
+![Alt](https://repobeats.axiom.co/api/embed/eeff64f6cf3d966257bdb597911b88a4c137d508.svg "Repobeats analytics image")
