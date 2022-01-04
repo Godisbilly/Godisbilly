@@ -4,11 +4,11 @@ I am a Web Software Developer.JavaScript is my best language,and JavaScript is t
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-HTML         5 hrs 49 mins   ████████████████░░░░░░░░░   63.86 % 
-JavaScript   2 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Vue.js       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+HTML         2 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.63 % 
+JavaScript   2 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   41.62 % 
+Vue.js       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 ![Alt](https://repobeats.axiom.co/api/embed/eeff64f6cf3d966257bdb597911b88a4c137d508.svg "Repobeats analytics image")
