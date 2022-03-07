@@ -4,9 +4,9 @@
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 25 mins  ████████████▓░░░░░░░░░░░░   50.56 % 
-HTML         8 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   40.58 % 
-CSS          1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JavaScript   9 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.31 % 
+HTML         8 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.60 % 
+CSS          1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 LESS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
