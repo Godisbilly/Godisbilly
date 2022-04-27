@@ -4,10 +4,10 @@
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-Vue.js       40 hrs 17 mins  ██████████████████████▒░░   88.98 % 
-JavaScript   3 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-HTML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Markdown     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Vue.js       40 hrs 41 mins  ██████████████████████▓░░   90.07 % 
+JavaScript   3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+TypeScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
