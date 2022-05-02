@@ -4,11 +4,11 @@
 ### :computer:Coding time Weekly
   <!--START_SECTION:waka-->
 ```text
-Vue.js       39 hrs 46 mins  ██████████████████████▓░░   90.35 % 
-JavaScript   2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-TypeScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Vue.js       34 hrs 7 mins   ██████████████████████▒░░   89.61 % 
+JavaScript   2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+TypeScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 ![Alt](https://repobeats.axiom.co/api/embed/eeff64f6cf3d966257bdb597911b88a4c137d508.svg "Repobeats analytics image")
